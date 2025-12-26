@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on:<br>- Exciting AI projects.<br><br>🤝 I’m looking to collaborate on:<br>- Open-source AI projects.<br><br>🤔 I’m looking for help with:<br>-Machine learning projects.<br>- Collaborating with teams on machine learning projects.<br><br>🌱 I’m currently learning:<br>- AI[Neural Networks,Deep Learning].<br>- IoT-related projects.<br><br>💬 Ask me about:<br>- AI tools related to coding.<br>-IoT development<br><br>⚡ Fun fact:<br>- I love photography.
+🎯 I’m currently working on:<br>- Exciting AI projects.<br><br>🤝 I’m looking to collaborate on:<br>- Open-source AI projects.<br><br>🤔 I’m looking for help with:<br>-Machine learning projects.<br>- Collaborating with teams on machine learning projects.<br><br>🌱 I’m currently learning:<br>- AI[Neural Networks,Deep Learning].<br><br>💬 Ask me about:<br>- AI tools related to coding.<br>-IoT development<br><br>⚡ Fun fact:<br>- I love photography.
 
 
 ## 🌐 Socials:
