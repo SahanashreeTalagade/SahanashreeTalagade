@@ -72,10 +72,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sahanashreetalagade&theme=BlueIce&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-![](https://visitcount.itsvg.in/api?id=sahanashreetalagade&icon=2&color=12)
